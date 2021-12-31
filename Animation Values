@@ -17,7 +17,7 @@ with the x value (-1.03)  turned into 0 would look like this
 
 So X is always +.5 of -X
 and Z is always +2.3 of -Z
-Do not ask me why these specific values are correct in terms of coordionate placement, because I have not a single clue, this whole thing is built off of fucking popsicle sticks
+Do not ask me why these specific values are correct in terms of coordinate placement, because I have not a single clue, this whole thing is built off of fucking popsicle sticks
 and chinese sweatshop dreams.
 
 Y seems to be the only exception for some reason. Y and -Y are directly connected where -Y goes up and down with -Y. Why isnt this inversely proportional like the others?
